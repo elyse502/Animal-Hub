@@ -1,4 +1,4 @@
-# Animal Hub
+# Animal Hub 🐕
 
 [Animal Hub](https://elyse502.github.io/Animal-Hub/)
 
