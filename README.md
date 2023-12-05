@@ -1,6 +1,6 @@
 # Animal Hub 🐕
 
-[Animal Hub](https://elyse502.github.io/Animal-Hub/)
+[Animal Hub Link](https://elyse502.github.io/Animal-Hub/)
 
 ## Table of Contents
 - [Description](#description)
@@ -45,7 +45,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-- Author: Elysée NIYIBIZI
+- Author: [Elysée NIYIBIZI](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/)
 - GitHub: [My GitHub Profile](https://github.com/elyse502)
 - Email: elyseniyibizi502@gmail.com
 
